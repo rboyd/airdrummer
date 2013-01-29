@@ -3,7 +3,7 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-
+  :main airdrummer.core/start
   :source-paths ["../vision/src" "src"]
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [org.clojars.nakkaya/vision "1.0.0"]
